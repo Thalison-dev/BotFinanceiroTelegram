@@ -1,0 +1,12 @@
+
+# Arquivos compilados do Java
+/bin/
+*.class
+
+# Dados financeiros pessoais
+/financeiro.json
+
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example
